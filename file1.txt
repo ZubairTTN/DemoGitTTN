@@ -1,3 +1,1 @@
 now i am making changes in the file1
-
-now i am making chnages in the repo after cloning
